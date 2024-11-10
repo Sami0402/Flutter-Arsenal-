@@ -1,4 +1,4 @@
-# daily_widgets
+# My FLutter Arsenal
 
 A new Flutter project.
 
